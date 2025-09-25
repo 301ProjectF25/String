@@ -1,5 +1,7 @@
 # String
 Jason Liang (zliang12)  
 Xiankai Guo(xiankai1)   
-
+Joshua Zhao (huayu2) 
+Weiyang Ma (weiyang3) 
+Haonan Ma(hma8)
 
