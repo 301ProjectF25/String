@@ -5,5 +5,5 @@ public abstract class Shape {
     int y;
 
 
-    String color = "CorrectedColor";
+    String color = "THISISTHECORRECTCOLOR";
 }
